@@ -2,8 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"uniqueTo": "Averom",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
