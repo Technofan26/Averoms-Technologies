@@ -21,7 +21,7 @@
 		"name": "Xeno Laboratory",
 		"cost": 3,
 		"hurryCostModifier": 150,
-		"sience": 15,
+		"science": 15,
 		"uniques": ["You gain new technologies faster"],
 		"requiredTech": "Xenochemistry","Xeno Crafting"
 	}
