@@ -18,11 +18,11 @@
 		"requiredTech": "Xenobiology"
 	},
 	{
-		"name": "Xeno Laboratory",
+		"name": "Laboratory",
 		"cost": 3,
 		"hurryCostModifier": 150,
 		"science": 15,
 		"uniques": ["You gain new technologies faster"],
-		"requiredTech": "Xenochemistry","Xeno Crafting"
+		"requiredTech": "Xeno Crafting"
 	}
 ]
