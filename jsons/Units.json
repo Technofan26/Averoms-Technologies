@@ -2,15 +2,14 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Averom",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"requiredTech": "Military Ballistics",
+		"requiredResource": "Hexanite",
+		"promotions": ["Drone Recon","Drill I","Drill II","Drill III","Cover I","Cover II","Cover III","Anti Air I","Anti Air II","Anti Air III","Continuos AA Protection","Coastal Raider I","Coastal Raider II","Coastal Raider III"],
 		"attackSound": "phasers"
 	}
 ]
