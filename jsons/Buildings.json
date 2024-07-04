@@ -16,13 +16,5 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Xenobiology"
-	},
-	{
-		"name": "Laboratory",
-		"cost": 3,
-		"hurryCostModifier": 150,
-		"science": 15,
-		"uniques": ["You gain new technologies faster"],
-		"requiredTech": "Xeno Crafting"
 	}
 ]
