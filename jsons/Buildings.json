@@ -1,7 +1,6 @@
 [
 	{
 		"name": "Holodeck",
-		"uniqueTo": "Averom",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -13,7 +12,6 @@
 	},
 	{
 		"name": "Breeders",
-		"uniqueTo": "Averom",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
