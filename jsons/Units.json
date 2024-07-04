@@ -9,7 +9,7 @@
 		"cost": 500,
 		"requiredTech": "Military Ballistics",
 		"requiredResource": "Hexanite",
-		"promotions": ["Drone Recon","Drill I","Drill II","Drill III","Cover I","Cover II","Cover III","Anti Air I","Anti Air II","Anti Air III","Continuos AA Protection","Coastal Raider I","Coastal Raider II","Coastal Raider III"],
+		"promotions": ["Drone Recon","Drill I","Drill II","Drill III","Cover I","Cover II","Anti Air I","Anti Air II","Anti Air III","Coastal Raider I","Coastal Raider II","Coastal Raider III"],
 		"attackSound": "phasers"
 	}
 ]
